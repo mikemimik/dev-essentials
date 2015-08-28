@@ -5,6 +5,8 @@
 - [nodist](https://github.com/marcelklehr/nodist) `https://github.com/marcelklehr/nodist`
 - [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) `https://www.npmjs.com/package/npm-windows-upgrade`
   - The source for finding this was `https://github.com/npm/npm/wiki/Troubleshooting#upgrading-on-windows`
+- [git-scm](https://git-scm.com/) `https://git-scm.com/`
+  - Use this for the git-bash shell, and the unix tools that the git-installer comes with `ls, ps, curl, touch`
 
 #### Info
 ##### Vagrant
