@@ -9,4 +9,4 @@
 #### Info
 ##### Vagrant
 - Issuses with `npm`
-  - [Blog post](http://kmile.nl/post/73956428426/npm-vagrant-and-symlinks-on-windows) regarding symlinks with npm/vagrant/windows (reference: npm-vagrant-symlinks-windows)
+  - [Blog post](http://kmile.nl/post/73956428426/npm-vagrant-and-symlinks-on-windows) regarding symlinks with npm/vagrant/windows (reference: [npm-vagrant-symlinks-windows](https://github.com/mikemimik/dev-essentials/blob/master/references/npm-vagrant-symlinks-windows.md))
