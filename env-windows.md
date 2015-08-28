@@ -19,6 +19,6 @@
 - Issuses with `npm`
   - [Blog post](http://kmile.nl/post/73956428426/npm-vagrant-and-symlinks-on-windows) regarding symlinks with npm/vagrant/windows (reference: [npm-vagrant-symlinks-windows](https://github.com/mikemimik/dev-essentials/blob/master/references/npm-vagrant-symlinks-windows.md))
 
-#### Windows
+##### Windows
 - UAC Whitelist
   - (reference: [uac-whitelist](https://github.com/mikemimik/dev-essentials/blob/master/references/uac-whitelist.md))
