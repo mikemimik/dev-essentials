@@ -1,6 +1,12 @@
 #### Package Manager
 - [scoop](https://github.com/lukesampson/scoop) `https://github.com/lukesampson/scoop`
 
+#### Applications
+- [SourceTree](https://www.sourcetreeapp.com/) `https://www.sourcetreeapp.com/`
+  - Using this applications to manage git repos.
+- [Visual Studio Code](https://code.visualstudio.com/) `https://code.visualstudio.com/`
+  - Using this applications as main IDE. Editor has all the features needed for the development I'm doing.
+
 #### Tools
 - [nodist](https://github.com/marcelklehr/nodist) `https://github.com/marcelklehr/nodist`
 - [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) `https://www.npmjs.com/package/npm-windows-upgrade`

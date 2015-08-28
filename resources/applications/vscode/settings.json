@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "javascript.validate.lint.comparisonOperatorsNotStrict": "error",
+  "javascript.validate.lint.missingSemicolon": "error",
+  "javascript.validate.lint.parametersDontMatchSignature": "warning"
+}
