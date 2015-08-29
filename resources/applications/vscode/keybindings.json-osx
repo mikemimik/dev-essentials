@@ -1,0 +1,5 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  { "key": "cmd+alt+2", "command": "workbench.action.splitEditor" },
+  { "key": "cmd+l", "command": "workbench.action.editor.changeLanguageMode" }
+]
