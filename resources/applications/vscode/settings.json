@@ -2,6 +2,8 @@
 {
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
+  "editor.wrappingColumn": 80,
+  "editor.renderWhitespace": true,
   "files.trimTrailingWhitespace": true,
   "javascript.validate.lint.comparisonOperatorsNotStrict": "error",
   "javascript.validate.lint.missingSemicolon": "error",
