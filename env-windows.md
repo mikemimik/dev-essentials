@@ -8,7 +8,7 @@
   - Using this applications as main IDE. Editor has all the features needed for the development I'm doing.
 
 #### Tools
-- [nodist](https://github.com/marcelklehr/nodist) `https://github.com/marcelklehr/nodist`
+- [nodist](https://github.com/marcelklehr/nodist) `https://github.com/marcelklehr/nodist` [**(Details)**](https://github.com/mikemimik/dev-essentials/blob/master/tools/windows/nodist.md)
 - [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) `https://www.npmjs.com/package/npm-windows-upgrade`
   - The source for finding this was `https://github.com/npm/npm/wiki/Troubleshooting#upgrading-on-windows`
 - [git-scm](https://git-scm.com/) `https://git-scm.com/`
